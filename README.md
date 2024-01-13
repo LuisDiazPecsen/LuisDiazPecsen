@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm currently work on:<br>🍔 [Gesrest](http://gesrest.net/), a restaurant management web app.<br>🛒 [360Sys](http://360sys.com.pe/), a commercial management web app.</p>
+<p align="left">I'm currently work on:<br>🍔 Gesrest, a restaurant management web app.<br>🛒 360Sys, a commercial management web app.</p>
 
 ###
 
@@ -86,9 +86,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisdiazpecsen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=luisdiazpecsen&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/luisdiazpecsen/luisdiazpecsen/output/snake.svg" alt="Snake animation" />
 
 ###
