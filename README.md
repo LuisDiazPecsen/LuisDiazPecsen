@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">I'm a passionate full stack developer in an always-learning process 👨🏻‍💻<br>Due to my job most of my projects are private, however I'm trying to share some of my personal projects here 🫡</p>
+<p align="left">I'm a passionate full stack developer in an always-learning process 👨🏻‍💻<br>Most of my projects are private due to my job, however I'm trying to share some of my personal projects here 🫡</p>
 
 ###
 
-<p align="left">I'm currently work on:<br>🍔 Gesrest, a restaurant management web app.<br>🛒 360Sys, a commercial management web app.</p>
+<p align="left">I'm currently working on:<br><a href="https://gesrest.net">🍔 Gesrest, a restaurant management web app</a>.<br><a href="https://www.360sys.com.pe">🛒 360Sys, a commercial management web app</a>.</p>
 
 ###
 
