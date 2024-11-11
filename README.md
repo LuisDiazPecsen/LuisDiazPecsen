@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm currently working on:<br><a href="https://gesrest.net">🍔 Gesrest, a restaurant management web app</a>.<br><a href="https://www.360sys.com.pe">🛒 360Sys, a commercial management web app</a>.</p>
+<p align="left">I'm currently working on:<br><a href="https://gesrest.net">🍔 Gesrest</a>, a restaurant management web app.<br><a href="https://360sys.com.pe">🛒 360Sys</a>, a commercial management web app.</p>
 
 ###
 
